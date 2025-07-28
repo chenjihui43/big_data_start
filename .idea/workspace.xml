@@ -4,38 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d606301c-5d37-4989-88c6-57677505cb6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/big_data_start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_note/funcFind.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_note/funcJoin.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_note/funcReplace.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_note/week2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_note/week2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week1/problem1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week1/problem1.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week1/problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week1/problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week2/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week2/problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week2/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week3/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week4/data/courses.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week4/data/students.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week4/gui/main_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week4/logic/course.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week4/logic/manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week4/logic/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week5/problem1_week5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week6/2252706陈纪辉_6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week6/High-speed rail.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week6/bankpep.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week6/problem1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week6/problem2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/week6/problem3.ipynb" afterDir="false" />
+    <list default="true" id="d606301c-5d37-4989-88c6-57677505cb6c" name="Changes" comment="complete 6 weeks homework">
+      <change afterPath="$PROJECT_DIR$/course_note/funcIslower.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/readfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/week3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/week5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_note/week2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/course_note/week2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_note/week2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="markdowm" />
+        <option value="Markdowm" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -53,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chenjihui43&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chenjihui43/big_data_start.git&quot;,
+    &quot;accountId&quot;: &quot;eb964361-36ff-4c83-9de7-ea7211d10455&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -264,8 +254,18 @@
       <workItem from="1753329395770" duration="22141000" />
       <workItem from="1753389942064" duration="1353000" />
       <workItem from="1753408825347" duration="1599000" />
-      <workItem from="1753593127115" duration="1901000" />
+      <workItem from="1753593127115" duration="4679000" />
+      <workItem from="1753708109580" duration="1283000" />
     </task>
+    <task id="LOCAL-00001" summary="complete 6 weeks homework">
+      <option name="closed" value="true" />
+      <created>1753597623713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753597623713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +281,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete 6 weeks homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete 6 weeks homework" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/big_data_start$problem3.coverage" NAME="problem3 Coverage Results" MODIFIED="1750579785662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
