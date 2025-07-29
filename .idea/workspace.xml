@@ -4,14 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d606301c-5d37-4989-88c6-57677505cb6c" name="Changes" comment="complete 6 weeks homework">
-      <change afterPath="$PROJECT_DIR$/course_note/funcIslower.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_note/readfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_note/week3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_note/week5.ipynb" afterDir="false" />
+    <list default="true" id="d606301c-5d37-4989-88c6-57677505cb6c" name="Changes" comment="week5 course">
+      <change afterPath="$PROJECT_DIR$/course_note/data/GDP.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/High-speed rail.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/Population.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/ProvinceGDP.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/Robot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/RobotGrey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/ShanghaiGDP.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/advertising.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/bankdebt.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/bankpep.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/datingTestSet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/elephant.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/iris.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/lamp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/mailcorpus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/stockClose.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/stockPrice.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/student1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/student2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/student3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/students.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/studentsInfo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/data/voice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/week6-4-11.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_note/week6.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_note/week2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/course_note/week2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_note/week2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_note/week5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/course_note/week5.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,37 +77,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main_window.executor&quot;: &quot;Run&quot;,
-    &quot;Python.manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem1.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem1_week5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.week1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/pycharmProject/big_data_start/week6&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main_window.executor": "Run",
+    "Python.manager.executor": "Run",
+    "Python.problem1 (1).executor": "Run",
+    "Python.problem1.1.executor": "Run",
+    "Python.problem1.2.executor": "Run",
+    "Python.problem1.executor": "Run",
+    "Python.problem1_week5.executor": "Run",
+    "Python.problem2 (1).executor": "Run",
+    "Python.problem2.executor": "Run",
+    "Python.problem3.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.week1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/pycharmProject/big_data_start/course_note",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharmProject\big_data_start\course_note" />
       <recent name="E:\pycharmProject\big_data_start\week6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -255,7 +276,8 @@
       <workItem from="1753389942064" duration="1353000" />
       <workItem from="1753408825347" duration="1599000" />
       <workItem from="1753593127115" duration="4679000" />
-      <workItem from="1753708109580" duration="1283000" />
+      <workItem from="1753708109580" duration="3247000" />
+      <workItem from="1753745375152" duration="12670000" />
     </task>
     <task id="LOCAL-00001" summary="complete 6 weeks homework">
       <option name="closed" value="true" />
@@ -265,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753597623713</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week5 course">
+      <option name="closed" value="true" />
+      <created>1753709415113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753709415113</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +314,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="complete 6 weeks homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete 6 weeks homework" />
+    <MESSAGE value="week5 course" />
+    <option name="LAST_COMMIT_MESSAGE" value="week5 course" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/big_data_start$problem3.coverage" NAME="problem3 Coverage Results" MODIFIED="1750579785662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
